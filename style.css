@@ -1,0 +1,47 @@
+.main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+    
+
+.container{
+    border: 2px solid black;
+    width: 600px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.container h1{
+    font-size: 52px;
+}
+
+
+
+#tempInput{
+    width: 300px;
+    padding: 8px;
+    margin: 12px;
+}
+
+#conversionType{
+    width: 250px;
+    padding: 8px;
+    margin: 12px;
+
+}
+button{
+    width: 100px;
+    font-weight: bold;
+    font-size: 16px;
+    padding: 4px;
+    margin: 22px;
+    border-radius:;
+    background-color: ;
+}
+#result{
+    font-weight: bold;
+    font-size: 20px;
+}
